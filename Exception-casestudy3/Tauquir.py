@@ -1,0 +1,2 @@
+class BangDivError(Exception):
+    pass
